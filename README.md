@@ -1,8 +1,11 @@
-Gifted Shopping Website
+# Gifted Shopping Website
 
 Angular App is in Final-project folder.       --------- Folder 1
+
 Express server is in gifted-server folder.    --------- Folder 2
+
 Mongo Database is in data/db folder.          --------- Folder 3
+
 
 NodeJs, npm Angular CLI and mongodb shell client is required. If you don't have it please install that first.
 
