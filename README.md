@@ -19,7 +19,7 @@ Run -
 After wards we need to run the servers.(Please maintain the sequence to avoid any errors)
 
 1) Traverse to Folder 3 and run the following command
-  mongod
+  mongod -dbpath "path to the dB folder"
 2) Traverse to Folder 2 and run:
   DEBUG=gifted-server:* npm start
 3) Traverse to Folder 1 and run:
