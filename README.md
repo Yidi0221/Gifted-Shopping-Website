@@ -22,8 +22,10 @@ After wards we need to run the servers.(Please maintain the sequence to avoid an
   mongod -dbpath "path to the dB folder"
   
   If you have questions, please run "export PATH="$PATH:/usr/local/mongodb/bin" at first, then run the commond mongod
+
 2) Traverse to Folder 2 and run:
   DEBUG=gifted-server:* npm start
+
 3) Traverse to Folder 1 and run:
   ng serve.
 
